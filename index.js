@@ -20,22 +20,22 @@ let cards=[
         status:"closed"
     },
     {
-        image:"https://lh3.googleusercontent.com/proxy/SobC8C4Gjrq2xcBigQ-x7wSMzCluEsgIPyusw4H_ON_JFX1rzzJSeP7DemC0UZ5_ZlhZOtmx_tC2JJajt4aqbC5R5wi2mA9b0XP1TpwtAwK5e1YGpJMfnkJDi1w",
+        image:"https://i.pinimg.com/236x/1b/ad/72/1bad729c8e6f38f6a4010dae44017bcb.jpg",
         value: 3,
         status:"closed"
     },
     {
-        image:"https://lh3.googleusercontent.com/proxy/SobC8C4Gjrq2xcBigQ-x7wSMzCluEsgIPyusw4H_ON_JFX1rzzJSeP7DemC0UZ5_ZlhZOtmx_tC2JJajt4aqbC5R5wi2mA9b0XP1TpwtAwK5e1YGpJMfnkJDi1w",
+        image:"https://i.pinimg.com/236x/1b/ad/72/1bad729c8e6f38f6a4010dae44017bcb.jpg",
         value: 3,
         status:"closed"
     },
     {
-        image:"https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Chris_Hemsworth_as_Thor.jpg/220px-Chris_Hemsworth_as_Thor.jpg",
+        image:"https://media.wired.com/photos/5932bdcd95879f6d0c009d66/master/pass/thor-hemsworth.jpg",
         value: 4,
         status:"closed"
     },
     {
-        image:"https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Chris_Hemsworth_as_Thor.jpg/220px-Chris_Hemsworth_as_Thor.jpg",
+        image:"https://media.wired.com/photos/5932bdcd95879f6d0c009d66/master/pass/thor-hemsworth.jpg",
         value: 4,
         status:"closed"
     }
